@@ -1,1 +1,58 @@
 
+# Task 1:🚀Caesar Cipher Encryption and Decryption🚀
+
+Welcome to the Caesar Cipher Encryption and Decryption project! This Python program allows users to encrypt and decrypt text using the classic Caesar Cipher algorithm.
+
+## Table of Contents
+1)Introduction
+2)Features
+3)How It Works
+
+## Introduction
+The Caesar Cipher is one of the simplest and most widely known encryption techniques. This project demonstrates a Python implementation that enables users to encrypt and decrypt messages by shifting the letters by a specified number of positions in the alphabet.
+
+## Features
+Encryption: Convert plain text into encrypted text using a shift value.
+Decryption: Convert encrypted text back to plain text using the same shift value.
+File Handling: Read input messages from a file and write the output to another file.
+
+## How It Works
+
+### User Interface:
+
+The user is prompted to choose between encryption and decryption.
+The user inputs the key value (shift value).
+The program processes the message based on the user's choice and key value.
+
+### Encryption:
+
+Shifts each letter in the message by the key value.
+Handles wrap-around for letters at the end of the alphabet.
+
+### Decryption:
+
+Shifts each letter in the encrypted message back by the key value to restore the original text.
+
+# 🔒Task 2: Pixel Manipulation for Image Encryption🔒
+
+## Overview
+This project provides a simple image encryption tool using pixel manipulation. Users can encrypt and decrypt images using two methods: pixel swapping and mathematical operations.
+
+## Features
+- **Image Encryption**: Encrypt images by altering pixel values.
+- **Image Decryption**: Decrypt images back to their original state.
+- **User-Friendly Interface**: Command-line interface for selecting images and applying encryption/decryption.
+
+## How It Works.
+### Encryption Methods
+1. **Pixel Swapping**:
+    - Pixels are swapped based on a pseudo-random sequence generated using the provided key.
+    - The sequence ensures that the same key will always result in the same encrypted image.
+2. **Mathematical Operations**:
+    - Each pixel value is transformed using a mathematical operation and the provided key.
+
+### Decryption Methods
+1. **Pixel Swapping**:
+    - The pixel swapping operation is reversed using the same key to restore the original image.
+2. **Mathematical Operations**:
+    - The mathematical transformation is reversed to restore the original pixel values.
