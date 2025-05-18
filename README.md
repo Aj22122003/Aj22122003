@@ -50,5 +50,18 @@
 ### 🏆 Achievements
 
 - 🎯 [Include badges or certifications here]
-
+- 🏅 Participated in 51+ quizzes (Badge: *In the Zone*)
+- 🧠 1000+ registrations on Unstop (Badge: *Millenial*)
+- 🔥 21-day streak (Badge: *Senior Member*)
+- 🏁 Completed 1st Hackathon (Badge: *Naive*)
+- 🧮 500+ registrations (Badge: *Quincentenary*)
+- 🧠 250+ registrations (Badge: *Giffy Two Fifty*)
+- 💯 100+ registrations (Badge: *Century*)
+- 🎯 50+ registrations (Badge: *Nifty Fifty*)
+- 💫 20+ registrations (Badge: *Twenty Bounty*)
+- 🔟 10+ registrations (Badge: *Zen with Ten*)
+- 🧪 21 quiz attempts (Badge: *Unvicenarian*)
+- 🧊 5 quiz attempts (Badge: *Warmer*)
+- 🏁 First registration and quiz (Badges: *One and Done*, *Getting Started*)
+- ✨ Pro Member of Unstop (Badge: *The Pro Member*)
 ---
