@@ -80,6 +80,53 @@
 - ✨ Pro Member of Unstop (Badge: *The Pro Member*)
   
 ---
+### 🚀 Projects
+
+- **Sales Performance Dashboard**  
+  Developed an interactive sales dashboard with 15-day sales forecast using Power BI’s advanced visualization and prediction tools.  
+  **Tech Stack:** Power BI, DAX, MS Excel  
+  [🔗 GitHub Repo](#)
+
+- **HR Analytics Dashboard**  
+  Built a Tableau dashboard to analyze employee performance, attrition risk, and satisfaction using real-world HR data.  
+  **Tech Stack:** Tableau, Excel  
+  [🔗 GitHub Repo](#)
+
+- **Language Translation Model**  
+  Created a web-based language translation tool using Microsoft Translator API for real-time multilingual conversion.  
+  **Tech Stack:** Flask, Python, Microsoft Translator API  
+  [🔗 GitHub Repo](#)
+
+- **Diabetes Prediction Model**  
+  Designed a machine learning model to predict diabetes likelihood using clinical data (pregnancies, glucose, BMI, etc.).  
+  **Tech Stack:** Python, Logistic Regression, SVM, Random Forest  
+  [🔗 GitHub Repo](#)
+
+- **Food Recognition and Calorie Estimation**  
+  Built a deep learning model to identify food items from images and estimate calorie values for dietary tracking.  
+  **Tech Stack:** Python, CNN, Deep Learning  
+  [🔗 GitHub Repo](#)
+
+- **AgroSakha – Multi-Agent AI for Sustainable Farming**  
+  Created a precision farming platform with AI agents for real-time advisory, crop yield prediction, and geospatial analytics.  
+  **Tech Stack:** Python, TinyLlama, Gemma-2B, SQLite, XGBoost, QGIS, Google Earth, AWS/GCP  
+  [🔗 GitHub Repo](#)
+
+---
+### 📂 Featured Repositories
+
+- [`agro-sakha`](https://github.com/Aj22122003/agro-sakha) – AI for Smart Farming
+- [`diabetes-predictor`](https://github.com/Aj22122003/diabetes-predictor)
+
+---
+### 🏁 Hackathons & Challenges
+
+- 🥇 **National Entrepreneurship Challenge – IIT Bombay**  
+  Completed the Advanced Track; led outreach and innovation initiatives.
+
+- 🚀 **Accenture Hackathon – AgroSakha Project**  
+  Built an AI-powered precision farming platform.
+
 ### 🎓 Certifications
 
 - `SQL 30 Days Microcourse` – *Skill Course*
