@@ -14,6 +14,7 @@
 🌱 Currently learning Full Stack Development and Advanced Data Analytics  
 ⚙️ Eager to solve real-world problems through impactful projects
 📌 Strong foundation in Manufacturing Processes, Quality Control and Project Management
+
 ---
 
 ### 🌐 Socials
