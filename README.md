@@ -53,16 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj22122003&show_icons=true&theme=radical" alt="Ajinkya's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj22122003&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
-
----
-
 ### 📊 GitHub Stats
 
 ![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj22122003&show_icons=true&theme=radical)
@@ -87,4 +77,22 @@
 - 🧊 5 quiz attempts (Badge: *Warmer*)
 - 🏁 First registration and quiz (Badges: *One and Done*, *Getting Started*)
 - ✨ Pro Member of Unstop (Badge: *The Pro Member*)
+  
 ---
+### 🎓 Certifications
+
+- `SQL 30 Days Microcourse` – *Skill Course*
+- `Software Engineering Job Simulation` – *J.P. Morgan*
+- `Data Science Job Simulation` – *Boston Consulting Group (BCG)*
+- `Data Visualization` – *Tata Group*
+- `Power BI Job Simulation` – *PWC Switzerland*
+- `Project Management` – *Microsoft and LinkedIn*
+- `Career Essentials in Software Development` – *Microsoft and LinkedIn*
+- `Excel Skills Job Simulation` – *J.P. Morgan Chase and Co*
+- `Career Essentials in Data and Business Analysis` – *Microsoft and LinkedIn*
+- `Technology Software Development Job Simulation` – *Citi Bank*
+- `Data Visualization and Project Management Job Simulation` – *Accenture*
+- `AI Data Engineer Certificate` – *Reliance Foundation*
+- `Software Engineering Job Simulation` – *Goldman Sachs*
+- `Generative AI Productivity Skills` – *Microsoft and LinkedIn*
+- `Data Privacy Analyst Certificate` – *Reliance Foundation*
