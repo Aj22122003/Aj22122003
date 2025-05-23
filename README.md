@@ -60,10 +60,6 @@
 ![Ajinkya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aj22122003&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj22122003&layout=compact&theme=radical)
 
-![Ajinkya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aj22122003&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aj22122003&layout=compact&theme=radical)
-
 ---
 
 ### 🏆 Achievements(Unstop)
