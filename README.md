@@ -13,8 +13,8 @@
 💡 Passionate about AIML,Data Science,Coding and Technology  
 🌱 Currently learning Full Stack Development and Advanced Data Analytics  
 🛠️ Skilled in Python,SQL,C++,HTML,CSS,JavaScript,POWER BI,TABLEAU,EXCEL
-
 ⚙️ Eager to solve real-world problems through impactful projects
+
 📌 Strong foundation in Manufacturing Processes, Process Optimization,Quality Control and Project Management
 📫 Reach me at: kutarmareajinkya52@gmail.com
 ---
