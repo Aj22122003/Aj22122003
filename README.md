@@ -6,7 +6,6 @@
 </p>
 
 ---
-
 ### 👨‍💻 About Me
 
 🎓 Final Year B.Tech (Production Engineering) student at VJTI, Mumbai  
