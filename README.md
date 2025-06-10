@@ -63,6 +63,16 @@
 </p>
 ---
 
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <blockquote style="background-color:#0e0d1a; color:#00ffff; padding:20px; border-radius:12px; font-style: italic;">
+    <p style="font-size:1.2em;">“ Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle. ”</p>
+    <p align="right" style="color:#ff4f87; font-weight: bold;">- Christian D. Larson</p>
+  </blockquote>
+</div>
+---
+
 ### 🏆 Achievements(Unstop)
 
 - 🎯 [Include badges or certifications here]
