@@ -94,15 +94,15 @@
 ---
 ### 🚀 Selected Projects
 
--**Stock Market Sentiment Analysis Dashboard**
+- **Stock Market Sentiment Analysis Dashboard**
 Developed an end-to-end pipeline to scrape live tweets on stocks, perform sentiment analysis using VADER, and visualize insights in Power BI. The dashboard features sentiment distribution, stock-wise analysis, word cloud, and tweet viewer for 10 selected stocks.
 Tech Stack: Python (Selenium, Pandas, VADER), Power BI, DAX, CSV
 
--**Electric Vehicle Analysis Dashboard**
+- **Electric Vehicle Analysis Dashboard**
 Built an interactive Power BI dashboard to analyze the growth, efficiency, and adoption of electric vehicles across the U.S. using public data. Tracked trends by model year, state, manufacturer, and clean fuel eligibility to identify market insights.
 Tech Stack: Power BI, DAX, Power Query, CSV
 
--**Hospital Mortality Dashboard**
+- **Hospital Mortality Dashboard**
 Designed a Power BI dashboard to visualize hospital mortality data across demographics, BMI, ICU types, comorbidities, and length of stay. Identified critical trends such as high-risk patient groups, ICU resource usage, and admission patterns to support hospital performance improvement.
 Tech Stack: Power BI, SQL, Data Cleaning & Processing, DAX
 
