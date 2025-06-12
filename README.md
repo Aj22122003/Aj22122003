@@ -63,25 +63,6 @@
 </p>
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aj22122003&bg_color=000000&color=00ffcc&line=00ccff&point=ffffff&area=true&hide_border=true" alt="Ajinkya's GitHub Activity Graph" />
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aj22122003&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aj22122003&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj22122003&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-
-</p>
----
-
 ### 📌 GitHub Summary
 
 - 🔥 Total Contributions: **444+**
